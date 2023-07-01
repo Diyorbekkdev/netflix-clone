@@ -25,7 +25,7 @@ This is a Netflix clone project built using React.js. It aims to replicate the m
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/netflix-clone.git`
+1. Clone the repository: `git clone https://github.com/Diyorbekkdev/netflix-clone.git`
 2. Navigate to the project directory: `cd netflix`
 3. Install dependencies: `yarn install`
 4. Rename `.env.example` to `.env` and update the variables with your own TMDB API key
